@@ -84,7 +84,7 @@ than a native raster heatmap renderer.
 
 - Full commented C# source, platform files, and solution in `src/`.
 - Database and density checks in `tests/`.
-- Word report with source listings, Android manifest, screenshot, and repository
+- Word report with the app explanation, screenshot, and repository
   URL in `submission/Location Heat Map Assignment.docx`.
 - Actual emulator output in `submission/application-output.png`.
 
