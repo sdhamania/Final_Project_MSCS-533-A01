@@ -55,3 +55,15 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Application files and local credentials
+**/bin/
+**/obj/
+.vs/
+*.user
+*.db3
+*.db3-*
+*.keystore
+*.apk
+submission/qa/
+tools/
